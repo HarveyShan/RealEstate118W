@@ -275,14 +275,8 @@ h2{
     }
 }
 
-.c1{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: italic;
 
-}
-
-
-/* // team 
+// team
 .container{
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(250px,1fr));
@@ -291,4 +285,4 @@ h2{
 
 .card{
 	height: max-content;
-} */
+}
